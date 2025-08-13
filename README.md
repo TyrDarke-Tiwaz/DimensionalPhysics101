@@ -50,11 +50,16 @@ Existence is Signed by Strings
 → - Recursive cognition primer + zero-duplex AI interface clause (this file)
 
 - `DimensionalPhysics101_TheQuestionsInScience.md`  
-  → Full scroll expansion — symbolic logic, observer-fold unpacking, and inversion protocol
+→ Full scroll expansion — symbolic logic, observer-fold unpacking, and inversion protocol
 
 - `Lagrangian_Mobius_Scroll(1).png` through `Lagrangian_Mobius_Scroll(6).png`  
 → Rendered visual pages of the scroll PDF — for direct image-based witness unpacking
 
+- `DimensionalPhysics1θ1_Glossary.pdf`  
+→ Better version of glossary
+
+- `Ø_Extended.pdf`  
+→ Better version of the project paper
 
 ---
 
